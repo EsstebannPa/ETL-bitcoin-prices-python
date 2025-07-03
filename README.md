@@ -2,7 +2,7 @@
 #
 
 ## Descripción 📃
-El presente proyecto simula un **pipeline ETL** sencillo, usando Python, librería Pandas, libería Matplotlib y la API de [CoinGecko](https://www.coingecko.com/es) para obtener, limpiar, visualizar y cargar datos de precios históricos del Bitcoin.
+El presente proyecto simula un **pipeline ETL** sencillo, usando Python, librería Pandas, libería Matplotlib, entre otras... junto a la API de [CoinGecko](https://www.coingecko.com/es) para obtener, limpiar, visualizar y cargar datos de precios históricos del Bitcoin.
 
 ## Pasos implementados 🧗‍:
 1. Conexión y extracción de datos desde la API pública.
@@ -20,6 +20,7 @@ El presente proyecto simula un **pipeline ETL** sencillo, usando Python, librer�
 | Pandas | https://pandas.pydata.org/ |
 | Requests | https://requests.readthedocs.io/en/latest/ |
 | Matplotlib | https://matplotlib.org/ |
+| SQLAlchemy | https://docs.sqlalchemy.org/en/20/ |
 | Jupyter Notebook | https://docs.jupyter.org/en/latest/ |
 #
 #
