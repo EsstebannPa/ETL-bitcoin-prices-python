@@ -1,0 +1,17 @@
+# Jupyter y Python
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+
+# Entornos
+.env
+*.env
+.vscode/
+
+# Datos procesados o crudos
+data/raw/
+data/processed/*.csv
+data/processed/*.db
+
+# Logs
+logs/
